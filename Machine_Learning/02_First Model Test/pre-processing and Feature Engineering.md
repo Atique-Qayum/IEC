@@ -42,7 +42,32 @@
 - Correlation
 - Transform Data (Scaling, Decomposition, Aggregation)
 - standardization (variance scaling) Resulting scaled feature has a mean of 0 and a variace of 1
-- 
+- Min - Max Scaling
 
+## Why scaling KNN?
 
+## Features Engineering
 
+coming up with feature is difficult, time-consuming, requires expert knowledge. Applied machine learning is basically feature engineering.
+
+The features you use influence more than everything els the result. No algorithm alone, to my knowledge, can supplement the information given by the correct feature engineering.
+
+data my be hard to understand and process. conduct feature engineering to make reading of the data easier for our machine learning models.
+
+features engineering is a process of transformation the given data into a form which is easier to interpret.
+
+----
+## Iterative process of feature engineering
+
+- Brainstorm features:
+- Devise features:
+- Select features:
+- Evaluate models:
+
+---
+
+## Summary
+
+step 1: Data Selection
+step 2: Data pre-processing
+step 3: Data transformation
